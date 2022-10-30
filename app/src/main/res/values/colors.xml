@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGreen">#645757</color>
+
+    <color name="colorPrimary">#1A1818</color>
+    <color name="colorPrimaryDark">#302C2C</color>
+    <color name="colorPrimaryLight">#81E281</color>
+    <color name="colorAccent">#1976D2</color>
+    <color name="colorPrimaryBackground">#57E95E</color>
+
+    <color name="colorAccentDark">#00600F</color>
+
+    <color name="colorDarkDialog">#5B646E</color>
+
+    <color name="colorBgNavigationView">#F5F5F7</color>
+
+    <color name="colorContentLabel">#CCCCCC</color>
+
+    <color name="colorFreeDelivery">#CCFFFFFF</color>
+
+    <color name="colorDialogLine">#E4E6E7</color>
+    <color name="colorDialogPopUpSpinner">#EEEEEE</color>
+</resources>

@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Redes APK</string>
+    <string name="app_version">Versão: 0.1 Alpha</string>
+    <string name="app_description">O Redes APK é um aplicativo que tem como objetivo simular a vendas de tênis e sapatos.</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_main_navigation_drawer">Home Redes APK</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="text_hint_search_menu">Digite sua pesquisa</string>
+    <string name="search_hint">Pesquisar</string>
+
+    <!-- Textos referentes aos titulos das Activities e Fragments -->
+    <string name="title_activity_sobre">Sobre o Redes APK</string>
+    <string name="title_activity_item">Shoe</string>
+    <string name="title_activity_details_item">Detalhes do Shoe</string>
+    <string name="title_fragment_list_itens">Lista de Itens</string>
+    <string name="title_fragment_list_itens_favorites">Itens Favoritos</string>
+
+    <!-- Textos dos componentes das Activities e Fragments  -->
+    <string name="text_list_fragment_sem_itens">Não há sapatos! Clique no + para adicionar.</string>
+    <string name="text_list_fragment_com_itens">Lista de sapatos, clique para selecionar.</string>
+    <string name="text_list_fragment_favoritos_com_itens">Lista de sapatos favoritados, clique para selecionar.</string>
+    <string name="text_list_fragment_favoritos_sem_itens">Não há sapatos favoritados!</string>
+    <string name="text_list_atualizar_itens">Atualizando a lista de sapatos!</string>
+
+    <!-- Texto da função compartilhar o app -->
+    <string name="text_share_app">Olá!</string>
+
+    <!--Arrays -->
+    <string-array name="alert_dialog_menu_options">
+        <item>Visualizar</item>
+        <item>Editar</item>
+        <item>Excluír</item>
+        <item>Copiar Shoe</item>
+        <item>Compartilhar</item>
+    </string-array>
+
+    <!-- Avisos e aletas -->
+    <string name="text_aviso_title">Aviso</string>
+    <string name="text_aviso_excluir_item">Deseja realmente APAGAR esse item?</string>
+    <string name="text_aviso_opcao_sim">Sim</string>
+    <string name="text_aviso_opcao_nao">Não</string>
+    <string name="text_aviso_campo_obrigatorio">Você deve preencher o campo </string>
+
+    <!-- Outras palavras e textos -->
+    <string name="text_copia">Cópia</string>
+    <string name="text_descricao">Descrição: </string>
+
+    <!-- Textos referentes as strings da Activity Sobre-->
+    <string name="text_agradecimentos">Agradecimentos</string>
+    <string name="text_apoio">Apoio</string>
+    <string name="text_equipe_de_desenvolvimento">Equipe de Desenvolvimento</string>
+    <string name="text_repository_or_site_project">Repositório Oficial</string>
+    <string name="text_license_use">LICENÇA DE USO</string>
+
+    <!-- URLS e Links-->
+    <string name="link_download_app_or_download_play_store">https://play.google.com/store/apps/details?id=com.projeto.shopshoes</string>
+
+    <!--Contatos, E-mails, Nomes de Pessoas etc -->
+    <string name="text_email_contact">shopshoes@email.com</string>
+    <string name="text_send_email_subject">Feedback Redes APK</string>
+
+
+    <!-- Textos referentes as strings da Activity Item-->
+    <string name="title_activity_thank_you">Voltar para Tênis Shop</string>
+
+    <string name="desc_logo_app">Logo Tênis Shop App</string>
+
+    <string name="desc_sneaker_first_gallery_image">
+        Primeira imagem extra da galeria
+    </string>
+    <string name="desc_sneaker_second_gallery_image">
+        Segunda imagem extra da galeria
+    </string>
+    <string name="desc_sneaker_third_gallery_image">
+        Terceira imagem extra da galeria
+    </string>
+
+    <string name="desc_male_icon">Ícone do sexo masculino</string>
+    <string name="desc_female_icon">Ícone do sexo feminino</string>
+
+    <string name="label_free">grátis</string>
+    <string name="label_put_on_shop_cart">Colocar no</string>
+
+    <string name="brazil_free_delivery">Frete grátis para todo Brasil</string>
+    <string name="desc_truck_delivery">Ícone de caminhão para entrega, frete</string>
+
+    <string name="label_recommended">Recomendado para:</string>
+    <string name="label_type">Tipo:</string>
+    <string name="label_composition">Composição:</string>
+    <string name="label_access_rating">Acessar avaliações</string>
+    <string name="label_buy">Comprar</string>
+    <string name="label_description">Descrição:</string>
+
+    <string name="value_stok_invetory_amount">Quantidade</string>
+    <string name="value_stok_invetory_end">em estoque</string>
+    <string name="value_stok_invetory">Quantidade (4 estoque)</string>
+    <string name="value_recommended">Running</string>
+    <string name="value_type">Performance</string>
+    <string name="value_composition">68% Poliamida | 32% Sintético</string>
+    <string name="value_desc">
+        O mais novo Fresh Foam Cruz conta com a nossa
+        premiada tecnologia Fresh Foam para uma corrida
+        estável e de alto amortecimento. Seu cabedal
+        sofisticado combina a junção central do tênis
+        com o mesh respirável para oferecer suporte com
+        uma camada extra de conforto. O Fresh Foam Cruz
+        proporciona uma sensação de frescor ao seu pé,
+        treino após treino.
+    </string>
+
+    <string name="excellent_buy">Excelente compra!</string>
+    <string name="keep_buying">Continuar comprando</string>
+    <string name="dialog_title">Pagamento</string>
+    <string name="desc_credit_cards">Bandeiras de cartão aceitas</string>
+
+    <string name="dialog_label_card_number">Número do cartão:</string>
+    <string name="dialog_hint_card_number">xxxx xxxx xxxx xxxx</string>
+    <string name="dialog_label_card_cvv">Código de segurança - CVV:</string>
+    <string name="dialog_hint_card_cvv">xxx ou xxxx</string>
+    <string name="dialog_label_card_owner">
+        Nome do proprietário do cartão - como está no cartão:
+    </string>
+    <string name="dialog_label_card_expire">Vencimento cartão</string>
+    <string name="dialog_label_card_expire_month">Mês:</string>
+    <string name="dialog_label_card_expire_bar">/</string>
+    <string name="dialog_label_card_expire_year">Ano:</string>
+    <string name="dialog_label_card_total_parcels">
+        <![CDATA[Número de parcelas. Se > 10x tem adição de juros:]]>
+    </string>
+
+    <string name="label_bt_finish_buy">Finalizar compra</string>
+
+    <string name="dialog_label_total">Total:</string>
+    <string name="dialog_label_parcels_without_taxes">
+        em até 10x sem juros
+    </string>
+
+    <string name="desc_sneaker_brand">Marca do tênis</string>
+    <string name="desc_sneaker_bought">Tênis comprado</string>
+    <string name="desc_sneaker_bought_brand">Marca do tênis comprado</string>
+    <string name="label_support_shop">Tel. suporte: 0800 723 6659</string>
+
+    <string name="item_add_to_cart">Adicionar ao carrinho</string>
+    <string name="item_search">Buscar</string>
+    <string name="item_cart">Carrinho</string>
+
+    <string name="track_code_label">Código de rastreamento:</string>
+    <string name="sneacker_label">Tênis:</string>
+
+    <string name="share_content_shared">Conteúdo compartilhado</string>
+    <string name="share_label">Compartilhar</string>
+
+    <string name="until">até</string>
+    <string name="or_in">ou em</string>
+
+    <string name="sneaker">Tênis</string>
+
+    <string name="nav_item_all_brands">Todas as marcas</string>
+    <string name="nav_item_male">Masculino</string>
+    <string name="nav_item_female">Feminino</string>
+    <string name="nav_item_child">Infantil</string>
+    <string name="nav_group_config">Configurações</string>
+    <string name="nav_item_app">Aplicativo</string>
+    <string name="nav_item_account">Conta</string>
+
+</resources>
